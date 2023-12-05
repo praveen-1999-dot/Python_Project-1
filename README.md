@@ -1,1 +1,3 @@
-# Project Name: Tic- Tac -Toe Game Development using the Python Script
+# Project Name:  Game Development 
+## Game Name: Tic-Tac-Toe
+### Language Used: Python
